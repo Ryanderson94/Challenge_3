@@ -15,7 +15,6 @@ run pip install -r requirements.txt
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
 1. Copy this repository via the URL (SSH or HTTP)
 
 <img width="907" alt="Screen Shot 2022-04-03 at 3 35 27 PM" src="https://user-images.githubusercontent.com/98444459/161445246-d4eecac4-44ae-452f-8e0c-ebaa9e523908.png">
@@ -29,9 +28,11 @@ In this section, you should include detailed installation notes containing code 
 
 ## Usage
 
-1. Navigate to the directory in either the Terminal, GitBash or in VS Code.
+1. Navigate to the directory in either the Terminal or GitBash. 
 
-2. 
+2. From the top folder (Challenge_3), launch jupyter lab by typing 'jupyter lab' into Terminal or Gitbash and pressing 'Enter'
+
+3. Open the 'crypto_arbitrage.ipynb' notebook and follow the instructions therein.  
 
 ---
 
