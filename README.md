@@ -1,6 +1,8 @@
 # Crypto Arbitrage Analyzer
 
-ADD DESCRIPTION
+The Crypto Arbitrage Analyzer is a tool that enables the user to import two CSV files containing cryptocurrency prices on different exchanges for direct comparison and analysis for arbitrage. There are two files in the program that can be used as examples. 
+
+The program contains scripts for parsing the CSVs, plotting key data points to analyze trends, summarazing findings and calculating potential profits. These can be used as-is, or manipulated to fit different use-cases.
 
 ---
 
